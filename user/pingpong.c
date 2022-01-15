@@ -21,7 +21,7 @@ main(int argc, char* argv[]) {
         exit(1);
     } else if(pid == 0) { //child
         close(fd1[1]);
-        close(fd2[0])
+        close(fd2[0]);
 
         if(read(fd1[0], &buf, 1) != 1) {
             fprintf(2, "child read() error!\n");
