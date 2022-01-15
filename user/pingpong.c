@@ -27,7 +27,7 @@ main(int argc, char* argv[]) {
             fprintf(2, "child read() error!\n");
             err_status = 1;
         } else {
-            fprintf(1, "%d: received pong\n", getpid());
+            fprintf(1, "%d: received ping\n", getpid());
         }
 
         if(write(fd2[1], &buf, 1) != 1) {

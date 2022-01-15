@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e4ca8ca-939c-484a-bea6-40d32a97fe7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="util" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="23ii78YTH3Mcw835v4MLlFsMnXb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e4ca8ca-939c-484a-bea6-40d32a97fe7d" name="Default Changelist" comment="" />
+      <created>1642223137562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642223137562</updated>
+      <workItem from="1642223142128" duration="2222000" />
+      <workItem from="1642230053550" duration="1787000" />
+      <workItem from="1642234929035" duration="7531000" />
+    </task>
+    <task id="LOCAL-00001" summary="README.md">
+      <created>1642223398415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642223398415</updated>
+    </task>
+    <task id="LOCAL-00002" summary="util">
+      <created>1642223569874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642223569874</updated>
+    </task>
+    <task id="LOCAL-00003" summary="readme">
+      <created>1642223706871</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642223706871</updated>
+    </task>
+    <task id="LOCAL-00004" summary="README">
+      <created>1642230689755</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642230689755</updated>
+    </task>
+    <task id="LOCAL-00005" summary="pingpong and sleep">
+      <created>1642247449544</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642247449545</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix">
+      <created>1642253790430</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642253790430</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="README.md" />
+    <MESSAGE value="util" />
+    <MESSAGE value="readme" />
+    <MESSAGE value="README" />
+    <MESSAGE value="pingpong and sleep" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="257" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642230680425">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="442" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1642230680425" />
+    <state x="309" y="44" key="CommitChangelistDialog2" timestamp="1642253790120">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="309" y="44" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1642253790120" />
+    <state x="144" y="75" key="DiffContextDialog" timestamp="1642223561739">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="75" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1642223561739" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1642229749442">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1642229749442" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1642253791837">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1642253791837" />
+    <state x="383" y="207" width="674" height="486" key="find.popup" timestamp="1642247414468">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="207" width="674" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1642247414468" />
+  </component>
+</project>
